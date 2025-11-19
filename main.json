@@ -1,0 +1,13 @@
+{
+	"id": "FriendsofgudI",
+	"name": "Friends of gud I",
+	"author": ["Gud"],
+	"description": "Adds deck skins of my friends, and other cool people",
+	"prefix": "fog1",
+	"badge_colour": "789abb",
+	"dependencies": [
+		"Steamodded (>=1.0.0~ALPHA-1404b)"
+	],
+	"main_file": "main.lua",
+	"version": "1.0.0"
+}
